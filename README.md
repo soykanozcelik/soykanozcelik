@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soykanozcelik
-- 👀 I’m interested in C# AspNet SQL
+- 👀 I’m interested and Developing in C# AspNet SQL VFP
 - 🌱 I’m currently learning MVC and Xamarin
 - 💞️ I’m looking to collaborate on MVC and Xamarin
 - 📫 How to reach me @soykanozcelik
